@@ -6,6 +6,6 @@ Podstawowe zadania z programowania obiektowego.
 ---
 English
 
-#Miniproject
+# Miniproject
 
 University Object-oriented Programming assignments
